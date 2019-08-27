@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/jhomlala/feather/blob/master/media/logo.png" width="250px">
+<img src="https://lh3.googleusercontent.com/mi9G5v7s4775seemn57VVwq6azT3qO6eqW1nlKbjGyXZLWjXAVpuYck7VyuX__s_vSU=s180" width="250px">
 </p>
 
 # :sunny: Feather
@@ -11,9 +11,7 @@
 Beautiful Flutter weather application. Entirely written in Dart and Flutter. Application is ready for Android and iOS.
 
 ### :camera: Media
-<p align="center">
-<img src="https://github.com/jhomlala/feather/blob/master/media/video.gif" width="250px">
-</p>
+
 
 <table>
   <tr>
