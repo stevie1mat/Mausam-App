@@ -18,40 +18,19 @@ Beautiful Flutter weather application. Entirely written in Dart and Flutter. App
 <table>
   <tr>
     <td>
-  <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/2.png">
+  <img width="250px" src="https://lh3.googleusercontent.com/fh5KD_XO9_S_1oRY_XL9m1e240BYLXaHZ10iO7keycEWV2u2VFW13ROp_0i-wvrcSg=w1366-h654">
     </td>
     <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/1.png">
+       <img width="250px" src="https://lh3.googleusercontent.com/-atPAMTAP2EBn3e82S7yY4A2SECrdN6khKG5IRLuEiwMhZSCD3l6s04M4_ndbNHrCw=w1366-h654">
     </td>
     <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/3.png">
+       <img width="250px" src="https://lh3.googleusercontent.com/MnIlyPkzPVQqdvHNpcDKLRv45UhW0JRsO5R9QNnI-yU9RZkrWXFOgq9Y43o6yFyWPw=w1366-h654">
     </td>
     <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/4.png">
+       <img width="250px" src="https://lh3.googleusercontent.com/_1L_1LNdEzom7UW64aTeGRg34-9CJELJm4XY30ZnaALpxy9zL3hlCLD_5I5i_4nsAZY=w1366-h654">
     </td>
-     <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/5.png">
-    </td>
-    <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/6.png">
-    </td>
-  </tr>
-  <tr>
-    <td>
-  <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/7.png">
-    </td>
-    <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/8.png">
-    </td>
-    <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/9.png">
-    </td>
-    <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/10.png">
-    </td>
-     <td>
-       <img width="250px" src="https://github.com/jhomlala/feather/blob/master/media/11.png">
-    </td>
+     
+    
   </tr>
 </table>
 
@@ -79,6 +58,3 @@ Beautiful Flutter weather application. Entirely written in Dart and Flutter. App
 - Better animation handling 
 - Documentation
 
-## :cloud: Credits
-API: OpenWeatherAPI  
-Icons: Icons8, FlatIcon  
